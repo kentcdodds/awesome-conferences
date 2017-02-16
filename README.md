@@ -84,6 +84,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [Write/Speak/Code Conference](http://www.writespeakcode.com/conference/) // [@WriteSpeakCode](https://twitter.com/writespeakcode)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
+* [Active Indgredients](http://activeingredients.info/) 
 
 #### New York
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
